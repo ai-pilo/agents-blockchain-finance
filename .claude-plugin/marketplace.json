@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    {
+      "name": "blockchain-web3",
+      "version": "1.2.2",
+      "path": "plugins/blockchain-web3"
+    },
+    {
+      "name": "quantitative-trading",
+      "version": "1.2.2",
+      "path": "plugins/quantitative-trading"
+    },
+    {
+      "name": "payment-processing",
+      "version": "1.2.2",
+      "path": "plugins/payment-processing"
+    }
+  ]
+}
